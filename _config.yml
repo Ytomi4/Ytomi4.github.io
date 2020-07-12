@@ -1,26 +1,26 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: Ytomi's Page
+url: "https://Ytomi4.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Ytomiのポートフォリオ
 
 # Author details for the jekyll-seo-tag gem
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+author: Ytomi
+  name: Ytomi
+  email: allyouneedisdaisuki@gmail.com
+  twitter: kanmichun
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Ytomi 
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    - https://github.com/Ytomi4
 
-timezone: Etc/UTC
+timezone: Asia/Tokyo
 
 collections:
   staff_members:
