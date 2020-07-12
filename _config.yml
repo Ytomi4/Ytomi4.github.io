@@ -9,9 +9,9 @@ disqus_shortname:
 description: Ytomiのポートフォリオ
 
 # Author details for the jekyll-seo-tag gem
-author: Ytomi
+author: 
   name: Ytomi
-  email: allyouneedisdaisuki@gmail.com
+  email: 
   twitter: kanmichun
 
 # Social details for the jekyll-seo-tag gem
