@@ -8,23 +8,25 @@
       link: /blog/
     - name: About
       link: /about/
-    - name: Contact
-      link: /contact/
 - title: Social
   links:
-    - name: Facebook
-      link: https://facebook.com/cloudcannon/
-      social_icon: Facebook
-      new_window: true
     - name: Twitter
-      link: https://twitter.com/cloudcannon/
-      social_icon: Twitter
+      link: https://twitter.com/kanmichun
+      social_icon: 
       new_window: true
-    - name: Instagram
-      link: https://instagram.com/
-      social_icon: Instagram
+    - name: GitHub
+      link: https://github.com/Ytomi4
+      social_icon: GitHub
       new_window: true
-    - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon
-      social_icon: LinkedIn
+    - name: Facebook
+      link: https://www.facebook.com/kotirashuhei/
+      social_icon: 
+      new_window: true
+    - name: Tumblr
+      link: https://www.tumblr.com/blog/ytomi4
+      social_icon: 
+      new_window: true
+    - name: Qiita
+      link: https://qiita.com/Ytomi
+      social_icon: 
       new_window: true

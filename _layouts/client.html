@@ -6,7 +6,7 @@ layout: default
 <section class="hero diagonal">
 	<div class="container">
 		{% if portfolio.heading %}
-		<h2><a href="{{ site.baseurl }}/portfolio/">{{ portfolio.heading }}</a> / {{ page.title | capitalize }}</h2>
+		<h2>{{ page.name }}</h2>
 		{% endif %}
 		{% if page.subtitle %}
 			<p class="subtext">{{ page.subtitle }}</p>
@@ -20,6 +20,6 @@ layout: default
 		<div>
 			{{ content }}
 		</div>
-		<p><a href="{{ page.external_url }}">View {{ page.title }} &rarr;</a></p>
+		<p><a href="{{ page.external_url }}">外部リンク: {{ page.name }} &rarr;</a></p>
 	</div>
 </section>
